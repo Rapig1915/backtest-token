@@ -1,0 +1,6 @@
+mljar-mercury
+pandas
+numpy
+requests
+seaborn
+matplotlib
